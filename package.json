@@ -23,6 +23,7 @@
     "buildCommand": ""
   },
   "scripts": {
-    "build": "webpack --progress"
+    "build": "webpack --progress",
+    "build-api-docs": "shep pull --api-id j1gu4agav6 --stage development --region us-east-1"
   }
 }
