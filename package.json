@@ -1,0 +1,29 @@
+{
+  "name": "space-beavers-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "license": "",
+  "devDependencies": {
+    "babel-core": "6.21.0",
+    "babel-loader": "6.2.10",
+    "babel-preset-env": "1.1.8",
+    "minimatch": "3.0.3",
+    "shep": "3.2.1",
+    "ts-loader": "1.2.2",
+    "ts-node": "1.7.0",
+    "tslint": "4.0.2",
+    "tslint-loader": "3.3.0",
+    "typescript": "2.2.2",
+    "webpack": "2.2.0"
+  },
+  "shep": {
+    "region": "us-east-1",
+    "accountId": "242257194820",
+    "apiId": "j1gu4agav6",
+    "buildCommand": ""
+  },
+  "scripts": {
+    "build": "webpack --progress"
+  }
+}

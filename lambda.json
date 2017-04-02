@@ -1,0 +1,7 @@
+{
+  "Handler": "index.handler",
+  "MemorySize": 128,
+  "Role": "arn:aws:iam::242257194820:role/beavers-dev-us-east-1-lambdaRole",
+  "Timeout": 10,
+  "Runtime": "nodejs4.3"
+}
