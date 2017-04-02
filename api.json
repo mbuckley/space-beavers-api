@@ -1,7 +1,7 @@
 {
   "swagger" : "2.0",
   "info" : {
-    "version" : "2017-04-02T19:36:34Z",
+    "version" : "1.0.0",
     "title" : "space-beavers-api"
   },
   "host" : "j1gu4agav6.execute-api.us-east-1.amazonaws.com",
