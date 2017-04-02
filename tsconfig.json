@@ -1,4 +1,5 @@
 {
+  "compileOnSave": true,
   "compilerOptions": {
     "lib": [
       "dom",
@@ -13,10 +14,12 @@
     "target": "es5",
     "experimentalDecorators": true,
     "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "compileOnSave": false
+    "noUnusedParameters": true
   },
   "include": [
     "functions/**/*"
+  ],
+  "exclude": [
+    "node_modules"
   ]
 }
