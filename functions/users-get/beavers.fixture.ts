@@ -1,4 +1,4 @@
-export default [
+const beavers = [
   {
     name: "Mike Buckley",
     nickname: "buckles",
@@ -24,3 +24,5 @@ export default [
     }],
   },
 ];
+
+export default beavers;

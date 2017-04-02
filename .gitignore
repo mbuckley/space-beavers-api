@@ -2,3 +2,4 @@ dist/*
 node_modules/*
 environments/*
 functions/**/*.js
+functions/**/*.js.map
